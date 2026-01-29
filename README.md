@@ -4,6 +4,5 @@ non ?
 uriel ptit nulos
 bah alors ? on est nul
 merguez
-tg victoire
+tg
 ploucos
-victoire + uriel = <3
